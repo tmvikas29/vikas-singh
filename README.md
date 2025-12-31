@@ -93,7 +93,7 @@ Worked on ERP, HRMS, Loan Management, Accounting, Social Feed, and API-based sys
 ## Contact
 
 - Email: tmvikas29@gmail.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- LinkedIn: https://www.linkedin.com/in/vikash-singh-tomar-352b41112/
 
 ---
 
